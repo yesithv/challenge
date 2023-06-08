@@ -1,4 +1,4 @@
-package ironcoding;
+package ironcoding.monnet;
 
 public class Fibonacci {
 

@@ -1,6 +1,6 @@
-package ironcoding;
+package ironcoding.hexacta;
 
-public class Hexacta {
+public class Palindromic {
 
     public static void main(String[] args) {
 
