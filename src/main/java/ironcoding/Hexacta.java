@@ -3,6 +3,7 @@ package ironcoding;
 public class Hexacta {
 
     public static void main(String[] args) {
+
         System.out.println("Detectar palabras palindromas");
 
         String one = "neuquen";
@@ -21,7 +22,7 @@ public class Hexacta {
             }
         }
 
-        if(palindrom){
+        if (palindrom) {
             System.out.println("Son palindromas");
         }
 
